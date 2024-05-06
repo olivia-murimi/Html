@@ -1,0 +1,4 @@
+Asignment
+diff btwn b tag and strong tag
+diff btwn em tag and i tag
+find other tags without closing tags
